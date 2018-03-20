@@ -12,7 +12,10 @@ class FirstTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-   
+        let view = UIView()
+        view.frame = CGRect(x:0,y:100,width:199,height:200)
+        
+        
         
         print("this is a good boy")
         
