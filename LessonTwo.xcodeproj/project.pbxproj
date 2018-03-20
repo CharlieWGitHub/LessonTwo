@@ -14,6 +14,7 @@
 		DF1409F1201EF7DD00DFE5CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF1409EF201EF7DD00DFE5CE /* LaunchScreen.storyboard */; };
 		DF1409FC201EF7DD00DFE5CE /* LessonTwoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1409FB201EF7DD00DFE5CE /* LessonTwoTests.swift */; };
 		DF140A07201EF7DD00DFE5CE /* LessonTwoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF140A06201EF7DD00DFE5CE /* LessonTwoUITests.swift */; };
+		DFBAE086206155EF00EF3820 /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBAE085206155EF00EF3820 /* FirstTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DF140A02201EF7DD00DFE5CE /* LessonTwoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LessonTwoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF140A06201EF7DD00DFE5CE /* LessonTwoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonTwoUITests.swift; sourceTree = "<group>"; };
 		DF140A08201EF7DD00DFE5CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFBAE085206155EF00EF3820 /* FirstTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				DF1409E6201EF7DD00DFE5CE /* AppDelegate.swift */,
 				DF1409E8201EF7DD00DFE5CE /* ViewController.swift */,
+				DFBAE085206155EF00EF3820 /* FirstTableViewController.swift */,
 				DF1409EA201EF7DD00DFE5CE /* Main.storyboard */,
 				DF1409ED201EF7DD00DFE5CE /* Assets.xcassets */,
 				DF1409EF201EF7DD00DFE5CE /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				DF1409E9201EF7DD00DFE5CE /* ViewController.swift in Sources */,
 				DF1409E7201EF7DD00DFE5CE /* AppDelegate.swift in Sources */,
+				DFBAE086206155EF00EF3820 /* FirstTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
